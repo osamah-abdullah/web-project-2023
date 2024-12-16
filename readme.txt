@@ -1,0 +1,2 @@
+admin:osamah
+pass:rootadmin
